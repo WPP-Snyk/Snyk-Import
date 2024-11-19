@@ -17,6 +17,15 @@
                 "owner": "Snyk-WPP",
                 "branch": "main"
             }
+        },
+        {
+            "orgId": "e0587f5d-e98d-4169-add8-989ec4b1e4e1",
+            "integrationId": "6ed0fc33-1d7c-4732-a2f3-d29f841dd2cb",
+            "target": {
+                "name": "ProjectC",
+                "owner": "WPP-Snyk",
+                "branch": "main"
+            }
         }
     ]
 }
