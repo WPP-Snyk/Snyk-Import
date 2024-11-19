@@ -1,0 +1,22 @@
+{
+    "targets": [
+        {
+            "orgId": "e0587f5d-e98d-4169-add8-989ec4b1e4e1",
+            "integrationId": "6ed0fc33-1d7c-4732-a2f3-d29f841dd2cb",
+            "target": {
+                "name": "ProjectA",
+                "owner": "Snyk-WPP",
+                "branch": "main"
+            }
+        },
+        {
+            "orgId": "b53f9385-27f2-4416-9869-5fff2a75b188",
+            "integrationId": "3f842b01-f348-4d99-bcec-bd45d4a98c05",
+            "target": {
+                "name": "ProjectB",
+                "owner": "Snyk-WPP",
+                "branch": "main"
+            }
+        }
+    ]
+}
